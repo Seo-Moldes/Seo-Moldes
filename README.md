@@ -1,3 +1,12 @@
+
+ { “name” : “Eliseo Moldes Domínguez”,
+   “role” : “Full Stack Developer | MERN Stack”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/eliseomoldesdominguez//", 
+      "Email"   : "seomoldes@gmail.com",
+     }
+ }
 <h1 align="center">Hi 👋, I'm Eliseo Moldes</h1>
 <h3 align="center">A passionate full stack developer from Canary Islands, Spain</h3>
 
