@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Music-player-app-apollofy](https://github.com/users/JorgeMunarriz/projects/1)
 
-- 🌱 I’m currently learning **Node.js, Express, MongoDB, PostgreSQL**
+- 🌱 I’m currently learning **Node.js, Express, MongoDB, PostgreSQL, Jest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
