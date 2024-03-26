@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eliseo Moldes</h1>
-<h3 align="center">A passionate full stack developer from Canary Islands, Spain</h3>
+<h3 align="center">A passionate Front-End Developer from Canary Islands, Spain</h3>
 
 - 🔭 I’m currently working on [Music-player-app-apollofy](https://github.com/users/JorgeMunarriz/projects/1)
 
