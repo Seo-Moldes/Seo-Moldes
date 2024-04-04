@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Portfolio](https://github.com/Seo-Moldes/Portfolio)
 
-- 🌱 I’m currently learning **Advanced Javascript, Typescript and React, 
+- 🌱 I’m currently learning Advanced Javascript, Typescript, React and UX & UI 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eliseomoldes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eliseomoldesdominguez/" height="30" width="40" /></a>
